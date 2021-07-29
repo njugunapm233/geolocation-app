@@ -4,6 +4,7 @@
 >>>The main aim of this web application is to records athlete's activities using google geolocation api and leaflets api.
 >>>An athlete can record the various locations/places that he/she expects to practice body fitness activities namely cycling and running on a map, with the various approximations of speed, time, distance, date etc.
 ***link***
+<<<The project can be run by double-clicking the ***index.html** and opening it via google chrome web browser.
 ///https://njugunapm233.github.io/geolocation-app/
 
 # main page
