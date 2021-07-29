@@ -1,5 +1,9 @@
 # geolocation-app
 
+# project aim
+>>>The main aim of this web application is to records athlete's activities using google geolocation api and leaflets api.
+>>>An athlete can record the various locations/places that he/she expects to practice body fitness activities namely cycling and running on a map, with the various approximations of speed, time, distance, date etc.
+
 # main page
 ![image](https://user-images.githubusercontent.com/44283776/127511075-00463b70-4f4d-4536-a9e4-e0b6b464770a.png)
 
